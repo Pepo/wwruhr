@@ -1,0 +1,173 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 17, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline; }
+
+/* line 22, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1; }
+
+/* line 24, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none; }
+
+/* line 26, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 28, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle; }
+
+/* line 30, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none; }
+  /* line 103, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  q:before, q:after, blockquote:before, blockquote:after {
+    content: "";
+    content: none; }
+
+/* line 32, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none; }
+
+/* line 116, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
+  display: block; }
+
+/* line 12, sass/screen.sass */
+html {
+  background: url("../images/background_schraffiert.jpg"); }
+
+/* line 14, sass/screen.sass */
+body {
+  background: url("../images/background.png") center top no-repeat transparent;
+  margin: 0 auto;
+  font-family: "PT Sans"; }
+  /* line 18, sass/screen.sass */
+  body #wrapper {
+    width: 60rem;
+    margin: 0 auto;
+    background-color: black; }
+  /* line 22, sass/screen.sass */
+  body header {
+    background-color: red;
+    height: 18rem;
+    background-color: #ff3500;
+    position: relative; }
+    /* line 27, sass/screen.sass */
+    body header img, body header h1 {
+      position: absolute;
+      top: 4rem;
+      left: 4rem;
+      -webkit-filter: drop-shadow(0px 0px 20px white); }
+    /* line 32, sass/screen.sass */
+    body header h1 {
+      top: 7.9rem;
+      left: 13rem;
+      font-size: 3rem;
+      font-weight: 400;
+      color: white; }
+    /* line 38, sass/screen.sass */
+    body header aside {
+      width: 23rem;
+      background-color: black;
+      float: right;
+      color: white;
+      height: 100%;
+      padding: 1.5rem;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box; }
+  /* line 46, sass/screen.sass */
+  body section {
+    background-color: white;
+    clear: both;
+    height: 100%;
+    overflow: hidden;
+    *zoom: 1;
+    margin-bottom: 2rem; }
+    /* line 52, sass/screen.sass */
+    body section article {
+      float: left;
+      width: 37rem;
+      background-color: white;
+      padding: 1.5rem;
+      background-color: white;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box; }
+      /* line 60, sass/screen.sass */
+      body section article h2 {
+        font-size: 2.5rem;
+        margin: 0 0 1rem 0; }
+      /* line 63, sass/screen.sass */
+      body section article h3 {
+        font-size: 2rem;
+        margin: 0 0 1rem 0; }
+      /* line 66, sass/screen.sass */
+      body section article p {
+        font-size: 1rem;
+        line-height: 1.3rem;
+        margin: 0.75em 0; }
+      /* line 71, sass/screen.sass */
+      body section article div.event {
+        margin: 0 auto;
+        border: 1px solid #eeeeee;
+        padding: 1rem;
+        margin-bottom: 1rem; }
+        /* line 76, sass/screen.sass */
+        body section article div.event h4 {
+          line-height: 1.5em;
+          font-size: 1.5rem; }
+        /* line 81, sass/screen.sass */
+        body section article div.event a {
+          float: right; }
+        /* line 83, sass/screen.sass */
+        body section article div.event img {
+          float: left;
+          margin: 0 18px 18px 0;
+          padding: 2px;
+          border: 1px solid #eeeeee; }
+    /* line 88, sass/screen.sass */
+    body section aside {
+      float: right;
+      width: 23rem;
+      height: 18rem;
+      background-color: #eeeeee;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+      padding: 1.5rem; }
+  /* line 96, sass/screen.sass */
+  body footer {
+    height: 10rem;
+    background-color: rgba(0, 0, 0, 0.8); }
+
+/* line 100, sass/screen.sass */
+.clearfix {
+  overflow: hidden;
+  *zoom: 1; }
