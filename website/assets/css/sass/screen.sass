@@ -8,13 +8,18 @@
 @import "compass/css3"
 
 $orange : #FF3500
-$gray : #EEEEEE
+$gray : #e0e0e0
 html
     background: url("../images/background_schraffiert.jpg")
+
+h1,h2
+    font-family: "Donegal One", Helvetica
+a
+    color: $orange
 body
     background: url("../images/background.png") center top no-repeat transparent
-    margin: 0 auto
-    font-family: "PT Sans"
+    margin: 1rem 0 0 0
+    font-family: Monda
     #wrapper
         width: 60rem
         margin: 0 auto
@@ -28,12 +33,13 @@ body
             position: absolute
             top: 4rem
             left: 4rem
-            -webkit-filter: drop-shadow(0px 0px 20px rgba(255,255,255,1.0))
+        img
+
         h1
             top: 7.9rem
             left: 13rem
-            font-size: 3rem
-            font-weight: 400
+            font-size: 2.5rem
+            font-weight: 700
             color: #FFF
         aside
             width: 23rem
@@ -43,8 +49,9 @@ body
             height: 100%
             padding: 1.5rem
             @include box-sizing(border-box)
+            font-family: Monda
     section
-        background-color: #fff
+        background-color: #c0c0c0
         clear: both
         height: 100%
         @include clearfix
@@ -52,27 +59,28 @@ body
         article
             float: left
             width: 37rem
-            background-color: #FFF
+            background-color: #ececec
             padding: 1.5rem
-            background-color: #FFF
             @include box-sizing(border-box)
 
             h2
                 font-size: 2.5rem
+                line-height: 120%
                 margin: 0 0 1rem 0
             h3
                 font-size: 2rem
-                margin: 0 0 1rem 0
+                margin: 1rem 0 1rem 0
             p
-                font-size: 1rem
-                line-height: 1.3rem
+                font-size: 0.85rem
+                line-height: 170%
                 margin: 0.75em 0
 
             div.event
                 margin: 0 auto
-                border: 1px solid $gray
+                border: 4px solid $gray
                 padding: 1rem
                 margin-bottom: 1rem
+                background-color: #fff
                 h4
                     line-height: 1.5em
                     font-size: 1.5rem
@@ -89,10 +97,11 @@ body
             float: right
             width: 23rem
             height: 18rem
-            background-color: #EEE
             @include box-sizing(border-box)
             padding: 1.5rem
-
+            background-color: #fff
+            border-right: 1px solid $gray
+            font-family: Monda
     footer
         height: 10rem
         background-color: rgba(0,0,0,0.8)

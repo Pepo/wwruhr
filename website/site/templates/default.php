@@ -8,6 +8,8 @@
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
   <meta name="robots" content="index, follow" />
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400italic,400,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Donegal+One' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
   <?php echo css('assets/css/screen.css') ?>
 
 </head>
@@ -15,7 +17,7 @@
 <body>
     <div id="wrapper">
         <header>
-            <img src="assets/images/logo.png" alt="Webworker Ruhr Logo">
+            <a href="/"><img src="/assets/images/logo.png" alt="Webworker Ruhr Logo"></a>
             <h1>Webworker Ruhr</h1>
             <aside>
                 <h2>Nächster Termin</h2>
@@ -35,25 +37,42 @@
 
 
                 <h3>Was bisher geschah</h3>
+
+                <?
+                    $archiv = $pages->find('archiv')->children();
+
+                ?>
+                <? foreach($archiv as $a): ?>
+                    <div class="event clearfix">
+                        <h4><?= $a->h1() ?></h4>
+
+
+                        <? $image =  $a->images()->first() ?>
+                        <? echo thumb( $image, array('width' => 95, 'height' => 95, 'upscale' => true, 'crop' => true) ); ?>
+                        <p><?= $a->shorttext() ?></p>
+
+                    </div>
+                <? endforeach; ?>
+
                 <div class="event clearfix">
                     <h4>25.10.2012 - Webworker Ruhr 1</h4>
                     <img src="assets/images/wwruhr2.jpg">
                     <p>Christian Schaefer, @derSchepp zeigte eine Präsentation zu Web Perfomance Optimisation</p>
-                    <p><a href="#">mehr…</a></p>
+                    <p><a href="archiv">mehr…</a></p>
                 </div>
                 <div class="event clearfix">
                     <h4>22.11.2012 - Webworker Ruhr 2</h4>
                     <img src="assets/images/wwruhr1.jpg">
                     <p>Gerhard Schörder, zeigte Google+</p>
                     <p>Benjamin Beelbrecht, @bbeelbrecht erklärte uns "Git für Nichtentwickler"</p>
-                    <p><a href="#">mehr…</a></p>
+                    <p><a href="archiv">mehr…</a></p>
                 </div>
 
                 <div class="event clearfix">
                     <h4>20.12.2012 - Webworker Ruhr 3 <br> Das 1. traditionelle Weihnachtskegeln</h4>
                     <img src="assets/images/wwruhr3.jpg">
                     <p>Zu Weihnachten mal ganz ohne Vorträge, dafür mit viel Spaß auf der Kegelbahn in Essen</p>
-                    <p><a href="#">mehr…</a></p>
+                    <p><a href="archiv">mehr…</a></p>
                 </div>
 
             </article>
