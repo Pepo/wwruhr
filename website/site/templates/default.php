@@ -17,7 +17,7 @@
 <body>
     <div id="wrapper">
         <header>
-            <a href="/"><img src="/assets/images/logo.png" alt="Webworker Ruhr Logo"></a>
+            <a href="/"><img src="assets/images/logo.png" alt="Webworker Ruhr Logo"></a>
             <h1>Webworker Ruhr</h1>
             <aside>
                 <h2>Nächster Termin</h2>
