@@ -1,0 +1,11 @@
+Name: Benjamin Albrecht
+----
+Twitter: @beelbrecht
+----
+URL: http://www.beelbrecht.de
+----
+Tag1: Git
+----
+Tag2: TYPO3
+----
+Tag3: 
