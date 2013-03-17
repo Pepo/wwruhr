@@ -6,12 +6,12 @@ h1: #WWRuhr No. 1
 
 ----
 
-shorttext:
+shorttext1:
 
 Christian Schaefer, @derSchepp zeigte eine Präsentation zu Web Perfomance Optimisation
 
 ----
-longtext:
+longtext1:
 
 Die Location hat nicht ganz das gehalten, was der erste Eindruck versprach, es war etwas aufwendiger, die Technik in Betrieb zu nehmen, sich einzurichten und alles am Platz zu haben.
 Der Beamer war zu funzelig, es war zu laut und auch zu kalt. Ergo: Wir bleiben auf Weiteres im Unperfekthaus. Die Suche nach einer Location ist aber nicht abgeschlossen.

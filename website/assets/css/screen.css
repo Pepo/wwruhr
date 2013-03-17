@@ -2,7 +2,7 @@
  * In this file you should write your main styles. (or centralize your imports)
  * Import this file using the following HTML or equivalent:
  * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
-/* line 17, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 17, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -23,82 +23,83 @@ time, mark, audio, video {
   font-size: 100%;
   vertical-align: baseline; }
 
-/* line 22, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 22, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 html {
   line-height: 1; }
 
-/* line 24, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 24, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 ol, ul {
   list-style: none; }
 
-/* line 26, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 26, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0; }
 
-/* line 28, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 28, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 caption, th, td {
   text-align: left;
   font-weight: normal;
   vertical-align: middle; }
 
-/* line 30, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 30, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 q, blockquote {
   quotes: none; }
-  /* line 103, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+  /* line 103, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
   q:before, q:after, blockquote:before, blockquote:after {
     content: "";
     content: none; }
 
-/* line 32, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 32, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 a img {
   border: none; }
 
-/* line 116, ../../../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
+/* line 116, ../../../../../../../../Applications/CodeKit.app/Contents/Resources/engines/compass/frameworks/compass/stylesheets/compass/reset/_utilities.scss */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary {
   display: block; }
 
 /* line 12, sass/screen.sass */
 html {
-  background: url("../images/background_schraffiert.jpg"); }
+  background: url("../images/background_schraffiert.jpg");
+  background-color: red; }
 
-/* line 15, sass/screen.sass */
+/* line 16, sass/screen.sass */
 h1, h2 {
   font-family: "Donegal One", Helvetica; }
 
-/* line 17, sass/screen.sass */
+/* line 18, sass/screen.sass */
 a {
   color: #ff3500; }
 
-/* line 19, sass/screen.sass */
+/* line 20, sass/screen.sass */
 body {
   background: url("../images/background.png") center top no-repeat transparent;
   margin: 1rem 0 0 0;
   font-family: Monda; }
-  /* line 23, sass/screen.sass */
+  /* line 24, sass/screen.sass */
   body #wrapper {
     width: 60rem;
     margin: 0 auto;
     background-color: black; }
-  /* line 27, sass/screen.sass */
+  /* line 28, sass/screen.sass */
   body header {
     background-color: red;
     height: 18rem;
     background-color: #ff3500;
     position: relative; }
-    /* line 32, sass/screen.sass */
+    /* line 33, sass/screen.sass */
     body header img, body header h1 {
       position: absolute;
       top: 4rem;
       left: 4rem; }
-    /* line 38, sass/screen.sass */
+    /* line 39, sass/screen.sass */
     body header h1 {
       top: 7.9rem;
       left: 13rem;
       font-size: 2.5rem;
       font-weight: 700;
       color: white; }
-    /* line 44, sass/screen.sass */
+    /* line 45, sass/screen.sass */
     body header aside {
       width: 23rem;
       background-color: black;
@@ -110,7 +111,7 @@ body {
       -moz-box-sizing: border-box;
       box-sizing: border-box;
       font-family: Monda; }
-  /* line 53, sass/screen.sass */
+  /* line 54, sass/screen.sass */
   body section {
     background-color: silver;
     clear: both;
@@ -118,7 +119,7 @@ body {
     overflow: hidden;
     *zoom: 1;
     margin-bottom: 2rem; }
-    /* line 59, sass/screen.sass */
+    /* line 60, sass/screen.sass */
     body section article {
       float: left;
       width: 37rem;
@@ -127,41 +128,41 @@ body {
       -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
       box-sizing: border-box; }
-      /* line 66, sass/screen.sass */
+      /* line 67, sass/screen.sass */
       body section article h2 {
         font-size: 2.5rem;
         line-height: 120%;
         margin: 0 0 1rem 0; }
-      /* line 70, sass/screen.sass */
+      /* line 71, sass/screen.sass */
       body section article h3 {
         font-size: 2rem;
         margin: 1rem 0 1rem 0; }
-      /* line 73, sass/screen.sass */
+      /* line 74, sass/screen.sass */
       body section article p {
         font-size: 0.85rem;
         line-height: 170%;
         margin: 0.75em 0; }
-      /* line 78, sass/screen.sass */
+      /* line 79, sass/screen.sass */
       body section article div.event {
         margin: 0 auto;
         border: 4px solid #e0e0e0;
         padding: 1rem;
         margin-bottom: 1rem;
         background-color: white; }
-        /* line 84, sass/screen.sass */
+        /* line 85, sass/screen.sass */
         body section article div.event h4 {
           line-height: 1.5em;
           font-size: 1.5rem; }
-        /* line 89, sass/screen.sass */
+        /* line 90, sass/screen.sass */
         body section article div.event a {
           float: right; }
-        /* line 91, sass/screen.sass */
+        /* line 92, sass/screen.sass */
         body section article div.event img {
           float: left;
           margin: 0 18px 18px 0;
           padding: 2px;
           border: 1px solid #e0e0e0; }
-    /* line 96, sass/screen.sass */
+    /* line 97, sass/screen.sass */
     body section aside {
       float: right;
       width: 23rem;
@@ -173,12 +174,12 @@ body {
       background-color: white;
       border-right: 1px solid #e0e0e0;
       font-family: Monda; }
-  /* line 105, sass/screen.sass */
+  /* line 106, sass/screen.sass */
   body footer {
     height: 10rem;
     background-color: rgba(0, 0, 0, 0.8); }
 
-/* line 109, sass/screen.sass */
+/* line 110, sass/screen.sass */
 .clearfix {
   overflow: hidden;
   *zoom: 1; }
