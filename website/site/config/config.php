@@ -44,7 +44,7 @@ c::set('url', '/');
  
 */
 
-c::set('url', false);
+c::set('url', 'http://localhost/Github/wwruhr/website');
 
 
 /* 
@@ -71,7 +71,7 @@ RewriteBase /subfolder
  
 */
 
-c::set('subfolder', false);
+c::set('subfolder', 'GitHub/wwruhr/website');
 
 
 /* 
