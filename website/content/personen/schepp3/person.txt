@@ -1,4 +1,4 @@
-Name: Christian "Schepp" Schäfer
+Name: Christian "Schepp" Schäfer 3
 ----
 Twitter: @derschepp
 ----
@@ -13,3 +13,12 @@ Tag3: Superextralang
 Tag4: Kurz
 ----
 Tag5: Mittel
+----
+Tag6: Filter
+----
+Tag7: CSS-JS-Booster
+----
+Longtext: Meine Hobbies sind Reiten, Schwimmen und Lesen, normalerweise arbeite ich hier und dort.
+----
+Vorträge: wwruhr2, wwruhr3
+
