@@ -98,33 +98,36 @@ body {
           line-height: 1.5em;
           font-size: 1.5rem;
           margin: 0 0 1.2rem; }
-        /* line 92, sass/screen.sass */
+          /* line 90, sass/screen.sass */
+          body section article div.event h4 a, body section article div.person h4 a {
+            float: none;
+            color: black; }
+        /* line 94, sass/screen.sass */
         body section article div.event a, body section article div.person a {
           float: right; }
-        /* line 94, sass/screen.sass */
+        /* line 96, sass/screen.sass */
         body section article div.event img, body section article div.person img {
           float: left;
           margin: 0 18px 18px 0;
           padding: 2px;
           border: 1px solid #e0e0e0; }
-        /* line 100, sass/screen.sass */
+        /* line 102, sass/screen.sass */
         body section article div.event ul.kontakte a, body section article div.person ul.kontakte a {
           float: none; }
-      /* line 104, sass/screen.sass */
+      /* line 106, sass/screen.sass */
       body section article div.person a {
         float: none; }
-      /* line 107, sass/screen.sass */
+      /* line 109, sass/screen.sass */
       body section article div.person ul.kontakte {
         height: 200px; }
-      /* line 110, sass/screen.sass */
+      /* line 112, sass/screen.sass */
       body section article div.person ul.tags {
         padding-top: 1.2rem;
         line-height: 3.2rem; }
-    /* line 114, sass/screen.sass */
+    /* line 116, sass/screen.sass */
     body section aside {
       float: right;
       width: 23rem;
-      height: 18rem;
       -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
       box-sizing: border-box;
@@ -132,24 +135,24 @@ body {
       background-color: white;
       border-right: 1px solid #e0e0e0;
       font-family: Monda; }
-  /* line 123, sass/screen.sass */
+  /* line 124, sass/screen.sass */
   body footer {
     /*height: 10rem */
     background-color: rgba(0, 0, 0, 0.8);
     width: 60rem;
     margin: 0 auto;
     padding: 0; }
-    /* line 130, sass/screen.sass */
+    /* line 131, sass/screen.sass */
     body footer h2, body footer h3 {
       color: white;
       margin: 0.78rem 0 0 28px;
       padding: 0; }
-    /* line 135, sass/screen.sass */
+    /* line 136, sass/screen.sass */
     body footer ul {
       list-style-type: none;
       margin: 0;
       padding: 28px 0; }
-    /* line 140, sass/screen.sass */
+    /* line 141, sass/screen.sass */
     body footer li.karte {
       background-color: white;
       border: 1px solid #ff3500;
@@ -158,24 +161,24 @@ body {
       padding: 1.2rem;
       margin: 0 0 2rem 28px;
       float: left; }
-      /* line 150, sass/screen.sass */
+      /* line 151, sass/screen.sass */
       body footer li.karte img {
         float: left;
         margin: 0 12px 12px 0;
         padding: 2px;
         border: 1px solid #e0e0e0; }
-      /* line 156, sass/screen.sass */
+      /* line 157, sass/screen.sass */
       body footer li.karte h4 {
         font-size: 0.9rem;
         margin-top: 0; }
-    /* line 160, sass/screen.sass */
+    /* line 161, sass/screen.sass */
     body footer li.karte:first {
       margin: 0; }
-    /* line 163, sass/screen.sass */
+    /* line 164, sass/screen.sass */
     body footer ul.kontakte {
       font-size: 0.8rem;
       height: 78px; }
-    /* line 167, sass/screen.sass */
+    /* line 168, sass/screen.sass */
     body footer ul.tags li {
       font-size: 0.8rem;
       margin: 0 0.4rem 0 0;
@@ -185,17 +188,17 @@ body {
       -ms-border-radius: 8px;
       -o-border-radius: 8px;
       border-radius: 8px; }
-  /* line 175, sass/screen.sass */
+  /* line 176, sass/screen.sass */
   body ul.kontakte {
     height: 120px;
     padding: 0;
     margin: 0; }
-  /* line 182, sass/screen.sass */
+  /* line 183, sass/screen.sass */
   body ul.tags {
     padding: 0;
     margin: 0;
     line-height: 2.6rem; }
-    /* line 187, sass/screen.sass */
+    /* line 188, sass/screen.sass */
     body ul.tags li {
       background-color: #ff3500;
       color: white;
@@ -208,7 +211,7 @@ body {
       -o-border-radius: 12px;
       border-radius: 12px; }
 
-/* line 196, sass/screen.sass */
+/* line 197, sass/screen.sass */
 .clearfix {
   overflow: hidden;
   *zoom: 1; }

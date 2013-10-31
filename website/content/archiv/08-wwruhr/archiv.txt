@@ -1,0 +1,15 @@
+Title: Webworker Ruhr - Startseite
+
+----
+
+h1: #WWRuhr No. 6 - 23.05.2013
+
+----
+
+shorttext:
+"Javascript-APIs at its best" und "Automatisiertes Testen von User Interfaces"
+----
+Dieses Mal gab es dicken Impact aus Köln, es haben sich +Rodney Rehm mit "Javascript-APIs at its best" und +Sebastian Golasch mit "Automatisiertes Testen von User Interfaces" die Ehre gegeben.
+
+longtext:
+(image: wwruhr8.jpg)

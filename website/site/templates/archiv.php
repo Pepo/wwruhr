@@ -1,5 +1,5 @@
 <?php snippet('header') ?>
-                <h2><?= $page->h1() ?></h2>
-                <?= kirbytext($page->shorttext1()) ?>
-                <?= kirbytext($page->longtext1()) ?>
+    <h2><?php print $page->h1() ?></h2>
+    <?php print kirbytext($page->shorttext()) ?>
+    <?php print kirbytext($page->longtext()) ?>
 <?php snippet('footer') ?>

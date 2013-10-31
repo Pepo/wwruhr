@@ -87,7 +87,9 @@ body
                     line-height: 1.5em
                     font-size: 1.5rem
                     margin: 0 0 1.2rem
-
+                    a
+                        float: none
+                        color: #000
 
                 a
                     float: right
@@ -102,7 +104,7 @@ body
 
             div.person
                 a
-                    float: none      
+                    float: none
 
                 ul.kontakte
                     height: 200px
@@ -114,7 +116,6 @@ body
         aside
             float: right
             width: 23rem
-            height: 18rem
             @include box-sizing(border-box)
             padding: 1.5rem
             background-color: #fff
@@ -153,9 +154,9 @@ body
                 padding: 2px
                 border: 1px solid $gray
 
-            h4    
+            h4
                 font-size: 0.9rem
-                margin-top: 0 
+                margin-top: 0
 
         li.karte:first
             margin: 0
@@ -165,7 +166,7 @@ body
             height: 78px
 
         ul.tags li
-            font-size: 0.8rem    
+            font-size: 0.8rem
             margin: 0 0.4rem 0 0
             padding: 0.2rem 0.4rem
             @include border-radius(8px)
@@ -176,14 +177,14 @@ body
         height: 120px
         padding: 0
         margin: 0
-        
+
 
 
     ul.tags
-        padding: 0 
+        padding: 0
         margin: 0
         line-height: 2.6rem
-                
+
         li
             background-color: $orange
             color: $white
