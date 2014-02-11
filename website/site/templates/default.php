@@ -8,7 +8,7 @@
                 <?php
                     $archiv = $pages->find('archiv')->children()->flip()->limit(3);;
                 ?>
-                <?php foreach($archiv->flip() as $a): ?>
+                <?php foreach($archiv as $a): ?>
                     <div class="event clearfix">
                         <h4>
                             <a href="<?php print $a->url() ?>"><?php print $a->h1() ?></a>
