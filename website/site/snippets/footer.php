@@ -10,6 +10,7 @@
                     <li>145, 147, 166 und SB16 (Bus)</li>
                     <li>NE10, NE11, NE12 und NE16 (Nachtexpress)</li>
                 </ul>
+                <?php snippet('menu') ?>
             </aside>
         </section>
     </div>
