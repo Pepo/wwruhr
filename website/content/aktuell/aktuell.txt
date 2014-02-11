@@ -1,0 +1,11 @@
+Title: Nächster Termin
+----
+Textitest: 
+#### Nächster Termin: 27. Februar 2014
+
+**geplante Themen:**
+
+Frederic Hemberger stellt einfache Möglichkeiten vor, mit dem Einsatz spezieller HTTP-Header spontan für mehr Sicherheit zu sorgen.
+
+Freie Runde, Diskussion:
+Wei macht Ihr Eure Abrechnung/zeiterfassung

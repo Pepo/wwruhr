@@ -1,0 +1,24 @@
+Title: Webworker Ruhr - #WWRuhr No. 5
+----
+
+h1: #WWRuhr No. 5
+
+----
+Datum: 28.02.2013 
+----
+
+shorttext:
+
+"realtime web mit node.js" mit @DerMambo
+
+"Google-Authorship" mit @dieMelanie﻿
+
+----
+longtext:
+
+Zunächst zeigte uns Manuel Schoebel einen kleinen Einstieg in node.js, dem Wunderding, das wesentlich schneller Anfragen von Web-Clients beantworten kan als der Standard-Apache. Er zeigte uns, wie einfach es ist, mit node.js und socket.io eine Realtime Web-Anwendung zu entwickeln.
+
+Im Anschluss hielt uns Karoline Steinfatt einen Vortrag über den neuen Google-Authorrank, warum er in Zukunft wichtig sein könnte, spekulierte, wie er sich auf die Suchergebnisse auswirken könnte und wie man das Authorship richtig in die eigenen Seiten implementiert.
+
+Die Folien zu Manuels Vortrag gibt es bei (link: http://de.slideshare.net/DerMambo/20130228-wwruhr-4realtimewebmitnodejs text: slideshare).
+

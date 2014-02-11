@@ -1,0 +1,19 @@
+Title: Webworker Ruhr - #WWRuhr No. 6
+----
+
+h1: #WWRuhr No. 6
+
+----
+Datum: 28.03.2013 
+----
+
+shorttext:
+
+Dieses Mal kommt der langersehnte und heißerflehte Grunt - Vortrag von Christian Siedler zum Zuge
+
+außerdem macht Pascal Szewczyk mit uns allen <del>einen Zug durch die Gemeinde</del> einen Workshop zu den Google-Webmastertools.﻿
+
+----
+longtext:
+
+Diesmal gibt es nicht viel zu berichten, Christian empfiehlt anstatt Folien einfach die (link: http://gruntjs.com/ text: Grunt-Doku) zu besuchen und zu benutzen, da Pascal live und improvisiert performed hat, gibt es keine weiteren Aufzeichnungen.
