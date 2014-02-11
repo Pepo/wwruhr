@@ -22,6 +22,5 @@ Longtext: Meine Hobbies sind Reiten, Schwimmen und Lesen, normalerweise arbeite 
 ----
 sessions: 
 	Termine:
-		- wwruhr9
-		- wwruhr13
+		- wwruhr7
 ----
