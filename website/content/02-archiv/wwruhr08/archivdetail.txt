@@ -1,0 +1,17 @@
+Title: Webworker Ruhr - #WWRuhr No. 08
+----
+h1: #WWRuhr No. 8 
+----
+Datum: 23.05.2013
+----
+shorttext:
+"Javascript-APIs at its best" und "Automatisiertes Testen von User Interfaces"
+----
+longtext:
+Den Beginn unseres mit Javascript vollgepackten Abends machte Sebastian Golasch, indem er zunächst seine Recherchen zum Thema Frontend-Testing zusammentrug und mit der Zusammenfassung schloss, dass ein Tool, wie er es sich vorstellt, doch –mal wieder- selbst gemacht werden muss. Und genau dieses Tool, DalekJS, hat er uns im Anschluss vorgestellt. Hier sind (link: http://ft2013.asciidisco.com/#/ text: seine Folien). Außerdem hat er alles, was er zum Thema gefunden hat, (link: https://gist.github.com/asciidisco/5547899 text: in einem Gist) zusammengetragen.
+
+Den zweiten Vortrag bestritt Rodney Rehm, er sprach über gelungenes JavaScript-API-Design und klassische Fehler, die man beim Schreiben eigener Javascript-Funktionen unbedingt vermeiden sollte. Seine Folien findet man hier: (link: http://rodneyrehm.de/slides/2013-takeoffconf-designing-better-javascript-apis/index.html#/) "Den" Artikel im Smashingmag habe ich auch direkt verlinkt: (link: http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/)
+
+Der nächste Termin ist der 27.06., da wird unser "traditionelles WWRuhr-Sommerfest" stattfinden. Geplant ist, sich zum Grillen im Landschaftspark Duisburg zu treffen, sobald die näheren Umstände und die genaue Geo-Location geklärt sind, gibt's das entsprechende Event.﻿
+
+

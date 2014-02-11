@@ -1,0 +1,15 @@
+Title: Webworker Ruhr - #WWRuhr No. 10
+----
+
+h1: #WWRuhr No. 10
+
+----
+Datum: 25.07.2013
+----
+
+shorttext:
+Bei dieser Veranstaltung wird uns Michael Jendryschik etwas zum Thema "Personas" erzählen, außerdem wird uns Jens Matheuszik mitnehmen hinter die Kulissen seines Blogs "(link: pottblog.de)"﻿
+----
+
+longtext:
+(image: wwruhr8.jpg)

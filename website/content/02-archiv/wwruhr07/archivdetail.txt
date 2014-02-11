@@ -1,0 +1,15 @@
+Title: Webworker Ruhr - #WWRuhr No. 07
+----
+
+h1: #WWRuhr No. 7 
+
+----
+Datum: 25.04.2013
+----
+shorttext:
+
+Dieses Mal spricht Berthold Barth über Agiles Management (Scrum, Kanban, etc), außerdem stellt (link: personen/maikwagner text:Maik Wagner) sein Barrierefreiheits-Dokumentations-Projekt zur Diskussion.﻿
+----
+
+longtext:
+(image: wwruhr7.jpg)

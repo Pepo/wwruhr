@@ -1,0 +1,22 @@
+Title: Webworker Ruhr - #WWRuhr No. 04
+----
+
+h1: #WWRuhr No. 4
+
+----
+Datum: 24.01.2013
+----
+shorttext:
+
+Fortsetzung der Git für Nichtentwickler-Session (trotzdem einsteigerkompatibel)
+
+Einstieg in das Build-Tool "Grunt" mit @labuero
+
+----
+longtext:
+Durch eine Störung im Betriebsablauf ist leider einer unserer Vortragenden ausgefallen, der heißersehnte Grunt-Vortrag musste leider auf das übernächste Mal verschoben werden.
+Aber (link: personen/beelbrecht text: Benjamin Albrecht) sprang ein und zeigte die doppelte Dosis Git, eine erweiterte Version seines Git-Vortrags. Da viele neue Leute da waren, hatte nur ein Besucher das Vergnügen, den Vortrag erneut zu sehen. Seine erweiterten und ergänzten Folien findet ihr unter (link: http://beelbrecht.github.io/git-einfuehrung/#/).
+
+Im Anschluss an die Theorie wurde Git dann in der Praxis eingesetzt, das Github-Repository für die WWRuhr-Website (link: https://github.com/Pepo/wwruhr) wurde live geforkt, geändert und wieder zurückgepusht.
+
+**Nächster Termin:** 28.02., 19:00 Uhr in Unperfekthaus (Internet-Sofa).

@@ -1,0 +1,19 @@
+Title: Webworker Ruhr - #WWRuhr No. 09: Das traditionelle Sommerfest
+----
+
+h1: #WWRuhr No. 9 - Das traditionelle Sommerfest
+
+----
+Datum: 27.06.2013 
+----
+shorttext:
+Für das traditionelle Sommerfest hat sich (link: personen/pepo text: Pascal Szewczyk) bereiterklärt, seinen Grill zur Verfügung zu stellen (er hat ja auch den größten). Wir treffen uns also bei ihm zu Hause auf dem Balkon. Es wird selbstgemachte Burger geben, er kauft ein und wir werfen Geld zusammen. Material für anderes Grillgut wie Würstchen oder vegetarische Pilz-Projekte sind selbst mitzubringen, ebenso Getränke nach eigenem Gusto. Er hat noch eine bombige Überraschung vorbereitet, außerdem gibt es eine tolle Sommerfest-Verlosung. Also: Seid dabei, beim ersten traditionellen Sommerfest des WWRuhr!﻿
+----
+longtext:
+Unser traditionelles Sommerfest fand dieses Mal in Bottrop statt, da Pascal Szewczyk  uns freundlicherweise Küche und Grill zur Verfügung gestellt hat. Er versorgte uns mit Gastfreundschaft, einer feisten Bacon-Bomb und leckeren, selbstgemachten Hamburgern.
+
+In entspannter und geselliger Runde wurde über mehr als Hack und Mett gesprochen; auch wenn die Uhr vielleicht was anderes gesagt hat, es hat sich angefühlt wie eine der "langen Nächte der Webentwicklung"… Danke für die Einladung! 
+
+**Nächster Termin:** 25.07., es gibt sogar schon Themen! ﻿
+
+(image: wwruhr8.jpg)
