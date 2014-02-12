@@ -2,14 +2,32 @@ Title: Webworker Ruhr - #WWRuhr No. 11
 
 ----
 
-h1: #WWRuhr No. 11 - 27.06.2013 das traditionelle Sommerfest
+h1: #WWRuhr No. 11
 
+----
+Datum: 22.08.2013
 ----
 
 shorttext:
-"Javascript-APIs at its best" und "Automatisiertes Testen von User Interfaces"
-----
-Dieses Mal gab es dicken Impact aus Köln, es haben sich +Rodney Rehm mit "Javascript-APIs at its best" und +Sebastian Golasch mit "Automatisiertes Testen von User Interfaces" die Ehre gegeben.
+**Angular JS mit Robin Böhm** 
+AngularJS gibt beim Erstellen von interaktiven Web-Anwendungen Komponenten für die Lösungen von wiederkehrenden Aufgaben und Standartproblemen an die Hand. Es erspart Zeit und potentielle Fehler. indem fertige Komponenten genutzt werden, anstatt das Rad immer wieder neu zu erfinden. An kleinen Live-Beispielen wird Robin Böhm die Vorteile und Geschwindigkeit bei der Entwicklung mit AngularJS zeigen.
 
+**Kostenlose Social Monitoring-Tools für Einsteiger mit Tim Krischak** 
+Bei allen (semi-)professionellen Einsätzen von Social-Media gehört ein Blick auf Verbreitung und Reaktionen zum guten Ton. Neben den "großen", kostenpflichtigen Monitoring-Diensten gibt es eine Reihe von kostenlosen Möglichkeiten und Tools, die Ergebnisse der eigenen Social-Media-Aktivitäten zu überwachen. Tim Krischak stellt einige von ihnen vor.  ﻿
+----
 longtext:
-(image: wwruhr8.jpg)
+ 
+<h4>Kleiner Nachbericht:</h4>
+
+Tim Krischak begann den Abend mit einem Überblick zu Socialmedia Monitoring, was es ist und wofür es gut ist, wechselte dann zu einer laaaangen Reihe von kostenlosen oder sehr kostengünstigen Tools für den Einstieg in das Socialmedia Monitoring, die im einzelnen vorstellte und beschrieb. 
+**Fazit:**
+Günstige Tools können immer nur einen Kanal oder nur ein bisschen überwachen, oft muss man sich sich entsprechende Einzelteile zusammensuchen, aber für die Einschätzung, ob und in welchem Maße ein Monitoring nötig ist, taugen sie allemal.
+Seine Folien liegen als PDF in seiner Dropbox:
+(link:https://dl.dropboxusercontent.com/u/140381/smm_wwruhr_220813.pdf)
+
+Die zweite Runde bestritt Robin Böhm , er stellte uns AngularJS, ein noch recht junges, aber sehr vielversprechendes Javascript-Framework, vor. Nach einer kurzen Einführung ging es direkt "Hands-on"-mäßig in den Code, in dem Robin die Vorteile, nämlich das Ausgliedern immer wieder benötigter Bereiche und Funktionen schön plastisch darstellte. 
+Seine Folien (mit interaktivem Live-Beispiel) findet ihr hier: (link: http://angularjs-de.github.io/talks/20130822-HandsOnAngularJS/#/)
+
+Wer jetzt ein bisschen angefixt ist, der kann unter (link: http://builtwith.angularjs.org/) "echte" AngularJS-Projekte, die auch schon in freier Wildbahn zu sehen sind, ansehen. ﻿
+
+

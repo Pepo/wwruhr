@@ -1,0 +1,23 @@
+Title: Webworker Ruhr - #WWRuhr No. 14
+
+----
+
+h1: #WWRuhr No. 14 
+
+----
+Datum: 28.11.2013
+----
+
+shorttext:
+**Hinter den Kulissen der Ruhrbarone** mit Stefan Laurin
+Stefan Laurien wird über das Ruhrbarone Blog sprechen. Dort schreiben über 30 Journalisten längst nicht nur über das Revier, hin und wieder auch mit sehr brisanten Themen. Wir werden ein wenig hinter die Kulissen dieses spannenden Projekts blicken können.
+
+**Piwik** mit Maik Wagner 
+Piwik ist die selbstgehostete, datenschutzkonforme Open-Source-Alternative zu Google-Analytics. Maik Wagner zeigt die Voraussetzungen für die Installation auf dem Server, Einrichtung in Webseiten und die Analysemöglichkeiten des Tools.﻿
+
+----
+
+longtext:
+Weg von technischen Spielereien und hochtrabenden Programmieransätzen ging es diesmal um ein eher kulturelles Thema: Stefan Laurin  als "Babo" von den Ruhrbaronen stattete uns einen Besuch ab und brachte einen Blick über den Tellerrand mit. Er sprach über die Hintergründe, die Geschichte und feine Anekdoten bei (link: http://www.ruhrbarone.de). Und es entwickelte sich, WWRuhr untypisch, aber nicht minder spannend, eine nette Gesprächsrunde mit vielen Fragen und Antworten statt einer Präsentation mit Zeremonienmeister. Das war sehr aufschlussreich, höchst interessant und sollte unbedingt wiederholt werden.
+
+Darüber hinaus zeigte uns Maik Wagner einen sehr praxisnahen Vortrag zum Thema Besucheranalyse mit Piwik, der OpenSource Alternative zu Google Analytics. Piwik bietet unfassbar viele Features und auch wenn man das Tool bereits selber einsetzt, konnte bei der Fülle der Optionen jeder noch etwas mitnehmen. Auch hier entwickelte sich eine schöne Runde, die sich austauschte. Quasi WWRuhr at it's best: Ein Thema zum "sofort einsetzen" mit der geballten Schwarm-Intelligenz aller Teilnehmer mit vielen "ohhs" und "ahhhs". Ein Mitmach-Stammtisch eben. Maiks Folien (ohne die Live-Demo) findet man unter (link: http://bit.ly/1eFszcL﻿)

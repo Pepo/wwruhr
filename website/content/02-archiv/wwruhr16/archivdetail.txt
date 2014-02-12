@@ -1,0 +1,31 @@
+Title: Webworker Ruhr - #WWRuhr No. 16
+
+----
+
+h1: #WWRuhr No. 16
+
+----
+Datum: 23.01.2014
+----
+
+shorttext:
+**MODX hinter den Kulissen von schwatzgelb.de**
+
+Das Magazin schwatzgelb.de ist eines der größten Online Fussball Fanzines in Deutschland. Mehr als 30 Redakteure versuchen das Geschehen rund um Borussia Dortmund aus Fansicht zu präsentieren. Mittlerweile ist schwatzgelb.de zu einem Sprachrohr der aktiven Fußballfanszene und der Fanpolitik weit über Dortmund hinaus geworden.
+
+Markus Wigbels und +christian fritzkowski geben (auch für "Nicht Fussball Fans") einen Einblick in die Organisation und Technik hinter der Webseite und zeigen, wie man trotz des CMS MODx emotionale Spielerwechsel oder Verlinkungen von Spiegel Online überlebt.
+
+
+**Workshop / offene Runde: richtige Auswahl von Hostingangeboten.**
+Jeder von uns braucht/nutzt Hostingangebote. Aber was tun zur Auswahl?
+-	Welche Kriterien spielen dabei eine Rolle
+-	selberhosten vs. vermitteln
+-	Hosting-Paket vs. V-Server vs. eigener Server
+Und wie immer die spannende Frage: Wie habt ihr das gelöst, was setzt ihr ein?﻿
+----
+longtext:
+christian fritzkowski  und Markus Wigbels  waren zu Gast und haben uns (link: http://schwatzgelb.de) gezeigt. Neben den redaktionellen Themen eines Fanzines ("Wie viele seid ihr?", "Wie organisiert ihr euch?") ging es auch viel um die hinter der Seite liegenden Technik. Das eingesetzte CMS "MODX" wurde ausführlich vorgestellt, Einblick in den Redakteursalltag gewährt, Vor- und Nachteile diskutiert und die (Backend-)Maßnahmen zur Performance-Optimierung vorgestellt. Die Folien hierzu sind unter (link: http://www.schwatzgelb.de/vortrag/wwruhr/) zu finden.
+
+Im zweiten Teil tauschten wir uns über die von uns selbst eingesetzten Webhostinglösungen aus. Bemerkenswert war, dass kaum jemand noch klassisches Account-Hosting nutzt, fast jeder ist auf einem eigenen Server oder zumindest auf einem virtuellen oder managed-Server unterwegs. Neben dem üblichen, feinen, Gefachsimpel wurden auch fleißig Tipps zu den besten Anbietern der jeweiligen Kategorie ausgetauscht.
+
+**Nächster Termin:** 27.02.2014﻿

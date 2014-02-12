@@ -1,0 +1,31 @@
+Title: Webworker Ruhr - #WWRuhr No. 12
+
+----
+
+h1: #WWRuhr No. 12 
+
+----
+Datum: 26.09.2013
+----
+
+shorttext:
+**Web Performance & die "Psychology of Speed"** mit Tobias Baldauf  
+
+Tobias bringt eine Einführung in Web Performance Optimierung, menschliche Zeitwahrnehmung und User Experience Design mit.
+
+Mehrjährige Studien haben den kausalen Zusammenhang zwischen Ladezeiten und Erfolg von Websites bewiesen: 
+Entdeckt wie Ladezeiten das Benutzerverhalten beeinflussen und gewinnt Einblick in die"Psychology of Speed" - menschliche Zeitwahrnehmung und ihre Relevanz für gute Usability & Interaction Design.
+
+Seine Folien findet man unter (link: https://speakerdeck.com/tbaldauf/web-performance-and-the-psychology-of-speed)
+
+**Persona** mit Christian Schorn 
+
+Christian wird einen kurzen Überblick über Persona (geborene BrowserID), den Authentifizerungs-Service von Mozilla ((link: https://login.persona.org/about)) geben.
+-	Wie soll es mal funktionieren
+-	Wie funktioniert es jetzt schon, 
+-	Was ist anders als bei anderen ID-Services (OAuth, OpenID etc.).
+
+----
+
+longtext:
+(image: IMG_20130926_205637-MOTION.gif)

@@ -10,6 +10,16 @@ Datum: 25.07.2013
 shorttext:
 Bei dieser Veranstaltung wird uns Michael Jendryschik etwas zum Thema "Personas" erzählen, außerdem wird uns Jens Matheuszik mitnehmen hinter die Kulissen seines Blogs "(link: pottblog.de)"﻿
 ----
-
 longtext:
+Michael Jendryschik startete den Abend mit seinem Vortrag über "Personas" (Nein, nicht der Single-Sign-On-Dienst von Mozilla. Wer dazu was erzählen kann, bitte melden!) . Es ging um die Entwicklung von Prototypen von künstlichen Personen als Stellvertretern von verschieden Benutzergruppen. Basierend auf empirischen Daten werden diese künstlichen Personen mit Attributen wie Foto, Alter, Geschlecht, Anforderungen und Vorlieben ausgestattet.
+
+Michael hat das natürlich viel ausführlicher beschrieben, inclusive Datenerhebung, Usability-Basics Und Spannungsbogen bis hin zu zur schlichten Lösung.
+ <del>Michael wird seine Folien den Teilnehmern persönlich zuteilen.</del> Michael hat seine Folien nachgereicht: (link: http://jendryschik.de/weblog/2013/07/25/personas-im-usability-engineering/)
+
+Jens Matheuszik zeigte uns in seinem Vortrag ein bisschen was von "hinter den Kulissen" seines Blogs "(link: http://pottblog.de)", zeigte Anfänge, PlugIns und Zugriffszahlen. Besonders gut informiert und unterhalten hat er uns mit den Geschichten und Anekdoten, die im Laufe der Zeit so passiert sind, die aber alle in den Bereich "nicht twittern" fallen. 
+
+Update: Wenn man die Datei zu Google-Drive höchlädt, kann man einen Link generieren:
+(link: https://docs.google.com/file/d/0B7B9gBImiTs2djE3MFZoNWdteDg/edit?usp=sharing)
+
+Danke an die Vortragenden und alle Teilnehmer. **Nächster Termin:** 22.08., wenn alles nach Plan läuft, wird es wieder einen Strauß spannender Themen geben, bei denen für jeden was dabei ist. ﻿
 (image: wwruhr8.jpg)
