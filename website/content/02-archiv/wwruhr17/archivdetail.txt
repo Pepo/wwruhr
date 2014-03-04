@@ -1,0 +1,26 @@
+﻿Title: Webworker Ruhr - #WWRuhr No. 17
+
+----
+
+h1: #WWRuhr No. 17
+
+----
+Datum: 27.02.2014
+----
+shorttext:
+
+Frederic Hemberger stellt einfache Möglichkeiten vor, mit dem Einsatz spezieller HTTP-Header spontan für mehr Sicherheit zu sorgen.
+
+**Freie Runde, Diskussion:**
+Wei macht Ihr Eure Abrechnung/Zeiterfassung
+
+----
+longtext:
+Frederic Hemberger zeigte uns im ersten Schritt, welche Verantwortung auch Frontendentwickler für die Sicherheit einer Website haben. Im Anschluss zeigte er uns einige wirklich einfache Schritte, um Clickjacking und Cross-Site-Scripting zu vermeiden. Neben dem grundsätzlichen Misstrauen gegen jede User-Eingabe kann man durch einen Eintrag von ein bis drei Zeilen in der .htaccess direkt Abhilfe schaffen. Ein erster Einstieg in das Thema "Security", aber ein absoluter "No-Brainer", den wirklich jeder nachvollziehen kann.
+Seine Folien (mit ausführlichen weiterführenden Links) findet Ihr unter:
+(link: http://fhemberger.github.io/talks/web-security/)
+
+Die Diskussionsrunde um die Zeiterfassung brachte recht enttäuschende Ergebnisse. Zeiterfassung ist entweder auf dem Level "Stift und Papier/in eine text-Datei schreiben" oder die Programme sind als Enterprise-Lösung zu groß und zu teuer; das Wundertool das praktikabel und bezahlbar ist, scheint's nicht zu geben, schon gar nicht für Freelancer oder kleine Agenturen. Als Tools wurden zwar "mite", "Revolver" und weitere genannt, allerdings immer unter der Prämisse, dass sie irgendwie doch nicht so richtig in den Alltag passen.
+
+
+**Nächster Termin:** 27.03.2014﻿
