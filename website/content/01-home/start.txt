@@ -1,9 +1,10 @@
-Title: Webworker Ruhr - Startseite
+Title: Startseite
 
 ----
 
 Text:
-##Tach - Willkommen bei den Webworkern "vonne Ruhr"
+#Tach!
+##Willkommen bei den Webworkern "vonne Ruhr"
 
 Ambitionierte und leidenschaftliche Webentwickler mit Drang zur weiteren Wissenaneignung in deiner Umgebung treffen sich jeden 4. Donnerstag im Monat im Essener Unperfekthaus.
 

@@ -1,4 +1,4 @@
-<?
+<?php
 	$aktuell = $pages-> find('aktuell');
 	
 	$aktuelltext= kirbytext($aktuell->text());
@@ -7,6 +7,8 @@
 
 		<h3>Nächstes Treffen</h3>
 		<div class="event clearfix">
-		<? echo $aktuelltext; ?>
+		<?php echo $aktuelltext; ?>
 		</div>
-	<?}?>
+	<?php
+    }
+?>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
 
-  <title><?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
+  <title>Webworker Ruhr <?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
   <meta charset="utf-8" />
   <meta name="description" content="<?php echo html($site->description()) ?>" />
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
@@ -29,6 +29,13 @@
                 </ul>
             </aside>
         </header>
+        <nav>
+            <?php foreach($pages as $page): ?>
+                <a href="<?php print $page->url() ?>">
+                <?php print $page->title() ?></a>
+            <?php endforeach; ?>
+        </nav>
+
 
         <section>
         <article>

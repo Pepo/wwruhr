@@ -14,7 +14,7 @@ h1, h2 {
 
 /* line 20, sass/screen.sass */
 a {
-  color: #ff3500; }
+  color: #FF3500; }
 
 /* line 22, sass/screen.sass */
 body {
@@ -25,12 +25,12 @@ body {
   body #wrapper {
     width: 60rem;
     margin: 0 auto;
-    background-color: black; }
+    background-color: #000; }
   /* line 30, sass/screen.sass */
   body header {
-    background-color: red;
+    background-color: #ff0000;
     height: 18rem;
-    background-color: #ff3500;
+    background-color: #FF3500;
     position: relative; }
     /* line 35, sass/screen.sass */
     body header img, body header h1 {
@@ -43,175 +43,179 @@ body {
       left: 13rem;
       font-size: 2.5rem;
       font-weight: 700;
-      color: white; }
+      color: #FFF; }
     /* line 47, sass/screen.sass */
     body header aside {
       width: 23rem;
-      background-color: black;
+      background-color: #000;
       float: right;
-      color: white;
+      color: #FFF;
       height: 100%;
       padding: 1.5rem;
-      -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
       box-sizing: border-box;
       font-family: Monda; }
   /* line 56, sass/screen.sass */
+  body nav {
+    background-color: #FF3500; }
+    /* line 59, sass/screen.sass */
+    body nav a {
+      color: #fff;
+      padding: 1em; }
+  /* line 62, sass/screen.sass */
   body section {
-    background-color: silver;
+    background-color: #c0c0c0;
     clear: both;
     height: 100%;
     overflow: hidden;
     *zoom: 1; }
-    /* line 61, sass/screen.sass */
+    /* line 67, sass/screen.sass */
     body section article {
       float: left;
       width: 37rem;
       background-color: #ececec;
       padding: 1.5rem;
-      -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
       box-sizing: border-box; }
-      /* line 68, sass/screen.sass */
+      /* line 74, sass/screen.sass */
       body section article h2 {
         font-size: 2.5rem;
         line-height: 120%;
         margin: 0 0 1rem 0; }
-      /* line 72, sass/screen.sass */
+      /* line 78, sass/screen.sass */
       body section article h3 {
         font-size: 2rem;
         margin: 1rem 0 1rem 0; }
-      /* line 75, sass/screen.sass */
+      /* line 81, sass/screen.sass */
       body section article p {
         font-size: 0.85rem;
         line-height: 170%;
         margin: 0.75em 0; }
-      /* line 80, sass/screen.sass */
+      /* line 86, sass/screen.sass */
       body section article div.event, body section article div.person {
         margin: 0 auto;
         border: 4px solid #e0e0e0;
         padding: 1rem;
         margin-bottom: 1rem;
-        background-color: white; }
-        /* line 86, sass/screen.sass */
+        background-color: #fff; }
+        /* line 92, sass/screen.sass */
         body section article div.event h4, body section article div.person h4 {
           line-height: 1.5em;
           font-size: 1.5rem;
           margin: 0 0 1.2rem; }
-          /* line 90, sass/screen.sass */
+          /* line 96, sass/screen.sass */
           body section article div.event h4 a, body section article div.person h4 a {
             float: none;
-            color: black; }
-        /* line 94, sass/screen.sass */
+            color: #000; }
+        /* line 100, sass/screen.sass */
         body section article div.event a, body section article div.person a {
           float: right; }
-        /* line 96, sass/screen.sass */
+        /* line 102, sass/screen.sass */
         body section article div.event img, body section article div.person img {
           float: left;
           margin: 0 18px 18px 0;
           padding: 2px;
           border: 1px solid #e0e0e0; }
-        /* line 102, sass/screen.sass */
+        /* line 108, sass/screen.sass */
         body section article div.event ul.kontakte a, body section article div.person ul.kontakte a {
           float: none; }
-      /* line 106, sass/screen.sass */
+      /* line 112, sass/screen.sass */
       body section article div.person a {
         float: none; }
-      /* line 109, sass/screen.sass */
+      /* line 115, sass/screen.sass */
       body section article div.person ul.kontakte {
         height: 200px; }
-      /* line 112, sass/screen.sass */
+      /* line 118, sass/screen.sass */
       body section article div.person ul.tags {
         padding-top: 1.2rem;
         line-height: 3.2rem; }
-    /* line 116, sass/screen.sass */
+    /* line 122, sass/screen.sass */
     body section aside {
       float: right;
       width: 23rem;
-      -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
+      -webkit-box-sizing: border-box;
       box-sizing: border-box;
       padding: 1.5rem;
-      background-color: white;
+      background-color: #fff;
       border-right: 1px solid #e0e0e0;
       font-family: Monda; }
-  /* line 124, sass/screen.sass */
+  /* line 130, sass/screen.sass */
   body footer {
     /*height: 10rem */
     background-color: rgba(0, 0, 0, 0.8);
     width: 60rem;
     margin: 0 auto;
     padding: 0; }
-    /* line 131, sass/screen.sass */
+    /* line 137, sass/screen.sass */
     body footer h2, body footer h3 {
-      color: white;
+      color: #FFF;
       margin: 0.78rem 0 0 28px;
       padding: 0; }
-    /* line 136, sass/screen.sass */
+    /* line 142, sass/screen.sass */
     body footer ul {
       list-style-type: none;
       margin: 0;
       padding: 28px 0; }
-    /* line 141, sass/screen.sass */
+    /* line 147, sass/screen.sass */
     body footer li.karte {
-      background-color: white;
-      border: 1px solid #ff3500;
+      background-color: #FFF;
+      border: 1px solid #FF3500;
       width: 242px;
       height: 242px;
       padding: 1.2rem;
       margin: 0 0 2rem 28px;
       float: left; }
-      /* line 151, sass/screen.sass */
+      /* line 157, sass/screen.sass */
       body footer li.karte img {
         float: left;
         margin: 0 12px 12px 0;
         padding: 2px;
         border: 1px solid #e0e0e0; }
-      /* line 157, sass/screen.sass */
+      /* line 163, sass/screen.sass */
       body footer li.karte h4 {
         font-size: 0.9rem;
         margin-top: 0; }
-    /* line 161, sass/screen.sass */
+    /* line 167, sass/screen.sass */
     body footer li.karte:first {
       margin: 0; }
-    /* line 164, sass/screen.sass */
+    /* line 170, sass/screen.sass */
     body footer ul.kontakte {
       font-size: 0.8rem;
       height: 78px; }
-    /* line 168, sass/screen.sass */
+    /* line 174, sass/screen.sass */
     body footer ul.tags li {
       font-size: 0.8rem;
       margin: 0 0.4rem 0 0;
       padding: 0.2rem 0.4rem;
-      -webkit-border-radius: 8px;
       -moz-border-radius: 8px;
-      -ms-border-radius: 8px;
-      -o-border-radius: 8px;
-      border-radius: 8px; }
-  /* line 176, sass/screen.sass */
+      -webkit-border-radius: 8px;
+      border-radius: 8px;
+      white-space: nowrap; }
+  /* line 183, sass/screen.sass */
   body ul.kontakte {
     height: 120px;
     padding: 0;
     margin: 0; }
-  /* line 183, sass/screen.sass */
+  /* line 190, sass/screen.sass */
   body ul.tags {
     padding: 0;
     margin: 0;
     line-height: 2.6rem; }
-    /* line 188, sass/screen.sass */
+    /* line 195, sass/screen.sass */
     body ul.tags li {
-      background-color: #ff3500;
-      color: white;
+      background-color: #FF3500;
+      color: #FFF;
       display: inline;
       margin: 0 0.4rem 0 0;
       padding: 0.4rem 0.8rem;
-      -webkit-border-radius: 12px;
       -moz-border-radius: 12px;
-      -ms-border-radius: 12px;
-      -o-border-radius: 12px;
+      -webkit-border-radius: 12px;
       border-radius: 12px; }
 
-/* line 197, sass/screen.sass */
+/* line 204, sass/screen.sass */
 .clearfix {
   overflow: hidden;
   *zoom: 1; }

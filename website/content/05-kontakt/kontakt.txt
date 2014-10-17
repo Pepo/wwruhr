@@ -1,0 +1,19 @@
+﻿Title: Kontakt
+----
+Text: 
+# Kontakt / Impressum
+
+Webworker Ruhr ist ein privat organisitertes Treffen für Webentwickler.
+
+##Kontakt
+Maik Wagner
+Mercatorstr. 2
+45143 Essen
+
+Fon: 0201/75001230
+Fax: 0201/75001229
+email: sprechen@fernmuendli.ch
+
+Für den Inhalt verantwortlich gemäß § 5 TMG:
+Maik Wagner
+
