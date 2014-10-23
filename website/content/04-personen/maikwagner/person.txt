@@ -6,20 +6,6 @@ Twitter: @fernmuendlich
 ----
 Homepage: http://www.mcwiwa.de
 ----
-Tag1: Frontend
-----
-Tag2: Barrierefreiheit
-----
-Tag3: Webstandards
-----
-Tag4: Redaxo
-----
-Tag5: WWRuhr-Gastgeber
-----
-Tag6: Lang
-----
-Longtext: Meine Hobbies sind Reiten, Schwimmen und Lesen, normalerweise arbeite ich hier und dort.
-----
 sessions: 
 	Termine:
 		- wwruhr07

@@ -10,8 +10,7 @@
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400italic,400,700,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Donegal+One' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
-  <?php echo css('assets/css/screen.css') ?>
-
+    <link rel="stylesheet" href="/assets/css/screen.css" />
 </head>
 <body>
     <div id="wrapper">
@@ -20,12 +19,12 @@
             <h1>Webworker Ruhr</h1>
             <aside>
                 <h2>Nächster Termin</h2>
-                <time datetime="2012-24-01T19:00+00:00">24. Januar 2013 - 19:00 Uhr</time>
+                <time datetime="2012-24-01T19:00+00:00">27. November 2014 - 19:00 Uhr</time>
 
                 <h3>Themen</h3>
                 <ul>
-                    <li>GIT2 für Nichtentwickler</li>
-                    <li>Grunt für Superheros</li>
+                    <li>SOLID (object-oriented design)</li>
+                    <li>Bessere Logingformulare. "Login failed. Retry?"</li>
                 </ul>
             </aside>
         </header>

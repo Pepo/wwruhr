@@ -6,22 +6,6 @@ Twitter: @beelbrecht
 ----
 Homepage: http://www.beelbrecht.de
 ----
-Tag1: Git
-----
-Tag2: TYPO3
-----
-Tag3: Nasebohren
-----
-Tag4: Kurz
-----
-Tag5: Mittel
-----
-Tag6: Filter
-----
-Tag7: CSS-JS-Booster
-----
-Longtext: Meine Hobbies sind Reiten, Schwimmen und Lesen, normalerweise arbeite ich hier und dort.
-----
 sessions: 
 	Termine:
 		- wwruhr01
