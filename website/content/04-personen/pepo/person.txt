@@ -1,0 +1,13 @@
+Title: Pascal Szewczyk
+----
+Name: Pascal Szewczyk
+----
+Twitter: @derPepo
+----
+Homepage: http://www.elektrowecker.de
+----
+sessions: 
+	Termine:
+		- wwruhr07
+		- wwruhr14
+----
