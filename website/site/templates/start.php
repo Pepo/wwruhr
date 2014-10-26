@@ -6,7 +6,7 @@
                 <h3>Was bisher geschah</h3>
 
                 <?php
-                    $archiv = $pages->find('archiv')->children()->flip()->limit(3);;
+                    $archiv = $pages->find('archiv')->children()->flip()->limit(3);
                 ?>
 
                 <?php foreach($archiv as $a): ?>
@@ -14,10 +14,10 @@
                         <h4>
                             <a href="<?php print $a->url() ?>"><?php print $a->h1() ?></a>
                         </h4>
+                        <?php if($a->hasImages()): ?>
+                            <?php echo thumb( $a->images()->first(), array('width' => 95, 'height' => 95) ); ?>
+                        <?php endif; ?>
 
-
-                        <?php $image =  $a->images()->first() ?>
-                        <?php echo thumb( $image, array('width' => 95, 'height' => 95, 'upscale' => true, 'crop' => true) ); ?>
                         <p><?php print kirbytext($a->shorttext()) ?></p>
                         <p><a href="<?php echo $a->url() ?>">Details</a></p>
 
