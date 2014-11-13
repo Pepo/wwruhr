@@ -208,7 +208,31 @@ body
 .clearfix
     @include clearfix
 
+footer
+    h2 span
+        font-size: 0.5em
 .ppl
-    margin: 28px
-    color: $orange
+    a
+        color: $orange
+        width: 146px
+        height: 146px
+        margin: 23px
+        border: 2px solid $orange
+        padding: 5px
+        float: left
+        text-align: center
+        background-color: #fff
+        box-sizing: border-box
+        font-size: 0.75rem
+        overflow: hidden
+        transition: all 0.5s
+        &:hover
+            background-color: $orange
+            color: #fff
+            border-color: #fff
+            transition: all 0.5s
+        img
+            margin: 0 auto
+            display: block
+            margin-top: 1em
 

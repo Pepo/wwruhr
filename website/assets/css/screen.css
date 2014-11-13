@@ -226,7 +226,33 @@ body {
   overflow: hidden;
   *zoom: 1; }
 
-/* line 211, sass/screen.sass */
-.ppl {
-  margin: 28px;
-  color: #FF3500; }
+/* line 212, sass/screen.sass */
+footer h2 span {
+  font-size: 0.5em; }
+
+/* line 215, sass/screen.sass */
+.ppl a {
+  color: #FF3500;
+  width: 146px;
+  height: 146px;
+  margin: 23px;
+  border: 2px solid #FF3500;
+  padding: 5px;
+  float: left;
+  text-align: center;
+  background-color: #fff;
+  box-sizing: border-box;
+  font-size: 0.75rem;
+  overflow: hidden;
+  transition: all 0.5s; }
+  /* line 229, sass/screen.sass */
+  .ppl a:hover {
+    background-color: #FF3500;
+    color: #fff;
+    border-color: #fff;
+    transition: all 0.5s; }
+  /* line 234, sass/screen.sass */
+  .ppl a img {
+    margin: 0 auto;
+    display: block;
+    margin-top: 1em; }

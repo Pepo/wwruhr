@@ -15,13 +15,13 @@
         </section>
     </div>
     <footer class="clearfix">
-        <h2>Gesichter und Hashtags</h2>
-        <h3>Diese Menschen sind Teil der Meetup-Gruppe Webworker Ruhr</h3>
+        <h2>Willkommen im Ruhrgebiet,wo man Gesichter Fressen nennt! <span>(Frank Goosen)</span></h2>
+        <h3>Diese Menschen sind Teil der <a href="www.meetup.com/wwruhr/">Meetup.com-Gruppe Webworker Ruhr</a></h3>
         <div class="ppl">
             <?php $json = json_decode(file_get_contents("https://api.meetup.com/2/members?group_id=17613862&key=484c52501a463038165f2827e1175")) ?>
 
             <?php foreach( $json->{'results'} as $ppl ): ?>
-                <a href="<?php print $ppl->link ?>"><?php print $ppl->name ?><?php if(isset($ppl->photo)): ?><img src="<?php print $ppl->photo->thumb_link; ?>"><?php endif; ?></a>,
+                <a href="<?php print $ppl->link ?>"><?php print $ppl->name ?><?php if(isset($ppl->photo)): ?><img src="<?php print $ppl->photo->thumb_link; ?>"><?php endif; ?></a>
             <?php endforeach; ?>
         </div>
     </footer>
