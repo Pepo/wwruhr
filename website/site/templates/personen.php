@@ -17,6 +17,16 @@
                             <li><a href="<?php echo $person->homepage()?>">Web</a></li>
                         </ul>
 
+                        <?php  if($person->sessions()):?>
+                            <p class="tags"><strong>Beiträge zum:</strong><br />
+                            <?php $termine = yaml($person->sessions()); ?> 
+                            <?php foreach ($termine['Termine'] as $termin):?>
+                                <?php echo '<a href="'.url($termin).'">'.$termin.'</a>, '; ?>
+                                
+                            <?php endforeach?>
+                            </p>
+                        <?php endif;?>
+
 
                     </div>
                 <?php endforeach; ?>
