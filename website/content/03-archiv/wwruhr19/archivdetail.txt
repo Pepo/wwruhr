@@ -1,0 +1,38 @@
+﻿Title: Webworker Ruhr - #WWRuhr No. 19
+
+----
+
+h1: #WWRuhr No. 19
+
+----
+Datum: 24.04.2014
+----
+shorttext:
+
+**INIT**  mit Hans Christian Reinl
+
+**Neues HTML5-Markup** zur Ladezeitenbeschleunigung (Teil 2) mit Christian Schaefer
+
+----
+
+longtext:
+
+**INIT** mit (link: personen text: Hans Christian Reinl)
+
+Startet man ein neues Projekt, ergeben sich viele zu wiederholende Schritte: File- und Folder-Struktur entwickeln, ein paar Boilerplate-Dateien, wie .gitignore, robots.txt und Touch Icons hinzufügen, Libraries und Test-Frameworks integrieren, Build-Steps aufsetzen. Erst dann geht die eigentliche Arbeit los.
+
+Einige Frameworks erleichtern das "Scaffolding" von neuen Projekten. INIT ist ein Boilerplate-Framework für Front-End-Entwicklung und bindet gute Defaults für all diese Schritte ein. Ein Einblick in INITs Leistungsfähigkeit.
+
+Hans Christian Reinl stellte uns sein Boilerplate-Framework "INIT" vor, mit dem man Aufgaben und Abläufe, die bei jedem neuen Projekt auftreten, stark vereinfachen kann und am Startpunkt direkt mit guten und soliden Grundlagen rund um CSS, JS, Build-Tasks und Testing loslegen kann.
+Mehr Infos gibt es auf der INIT-Website http://use-init.com, INIT liegt auch auf Github: https://github.com/use-init/init und Hans' Folien sind auch schon da: http://drublic.github.io/wwruhr-init/#/
+
+**Neues HTML5-Markup** zur Ladezeitenbeschleunigung (Teil 2) mit  (link: personen text: Christian Schaefer)
+
+Im zweiten Teil zeigte uns Christian Schaefer (Der Schepp) einen weiteren Teil aus seinem reichhaltigen Fundus von Web-Performance-Techniken; diesmal ging es um das Rendering von Websites, das speziell auf die Nutzung der GPU (vor allem von mobilen Devices) abgestimmt ist.
+http://schepp.github.io/HTML5-WPO-Slides/#/5
+
+Außerdem zog er noch schnell den Knaller "SPDY" aus dem Hut, die Koseform der HTTP/2-Spezifikation. Hiermit lässt sich aufgrund neuer Spezifikationen der Dateiübertragung eine Website wesentlich schneller ausliefern als mit HTTP/1, alle Voraussetzungen und Möglichkeiten finden sich auf den Folien
+http://schepp.github.io/HTML5-WPO-Slides/#/6	﻿
+
+
+**Nächster Termin:** 22.05.2014﻿
