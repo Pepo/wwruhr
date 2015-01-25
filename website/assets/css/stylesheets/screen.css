@@ -1,0 +1,240 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/*@import "compass/reset" */
+/* line 14, sass/screen.sass */
+html {
+  background: url("../images/background_schraffiert.jpg");
+  background-color: red;
+}
+
+/* line 18, sass/screen.sass */
+h1, h2 {
+  font-family: "Donegal One", Helvetica;
+}
+
+/* line 20, sass/screen.sass */
+a {
+  color: #ff3500;
+}
+
+/* line 22, sass/screen.sass */
+body {
+  background: url("../images/background.png") center top no-repeat transparent;
+  margin: 1rem 0 0 0;
+  font-family: Monda;
+}
+/* line 26, sass/screen.sass */
+body #wrapper {
+  width: 60rem;
+  margin: 0 auto;
+  background-color: black;
+}
+/* line 30, sass/screen.sass */
+body header {
+  background-color: red;
+  height: 18rem;
+  background-color: #ff3500;
+  position: relative;
+}
+/* line 35, sass/screen.sass */
+body header img, body header h1 {
+  position: absolute;
+  top: 4rem;
+  left: 4rem;
+}
+/* line 41, sass/screen.sass */
+body header h1 {
+  top: 7.9rem;
+  left: 13rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: white;
+}
+/* line 47, sass/screen.sass */
+body header aside {
+  width: 23rem;
+  background-color: black;
+  float: right;
+  color: white;
+  height: 100%;
+  padding: 1.5rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-family: Monda;
+}
+/* line 56, sass/screen.sass */
+body section {
+  background-color: silver;
+  clear: both;
+  height: 100%;
+  overflow: hidden;
+  *zoom: 1;
+}
+/* line 61, sass/screen.sass */
+body section article {
+  float: left;
+  width: 37rem;
+  background-color: #ececec;
+  padding: 1.5rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* line 68, sass/screen.sass */
+body section article h2 {
+  font-size: 2.5rem;
+  line-height: 120%;
+  margin: 0 0 1rem 0;
+}
+/* line 72, sass/screen.sass */
+body section article h3 {
+  font-size: 2rem;
+  margin: 1rem 0 1rem 0;
+}
+/* line 75, sass/screen.sass */
+body section article p {
+  font-size: 0.85rem;
+  line-height: 170%;
+  margin: 0.75em 0;
+}
+/* line 80, sass/screen.sass */
+body section article div.event, body section article div.person {
+  margin: 0 auto;
+  border: 4px solid #e0e0e0;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: white;
+}
+/* line 86, sass/screen.sass */
+body section article div.event h4, body section article div.person h4 {
+  line-height: 1.5em;
+  font-size: 1.5rem;
+}
+/* line 91, sass/screen.sass */
+body section article div.event a, body section article div.person a {
+  float: right;
+}
+/* line 93, sass/screen.sass */
+body section article div.event img, body section article div.person img {
+  float: left;
+  margin: 0 18px 18px 0;
+  padding: 2px;
+  border: 1px solid #e0e0e0;
+}
+/* line 99, sass/screen.sass */
+body section article div.event ul.kontakte a, body section article div.person ul.kontakte a {
+  float: none;
+}
+/* line 102, sass/screen.sass */
+body section article div.person a {
+  float: none;
+}
+/* line 104, sass/screen.sass */
+body section aside {
+  float: right;
+  width: 23rem;
+  height: 18rem;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  background-color: white;
+  border-right: 1px solid #e0e0e0;
+  font-family: Monda;
+}
+/* line 113, sass/screen.sass */
+body footer {
+  /*height: 10rem */
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 60rem;
+  margin: 0 auto;
+  padding: 0;
+}
+/* line 120, sass/screen.sass */
+body footer h2, body footer h3 {
+  color: white;
+  margin: 0.78rem 0 0 28px;
+  padding: 0;
+}
+/* line 125, sass/screen.sass */
+body footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 28px 0;
+}
+/* line 130, sass/screen.sass */
+body footer li.karte {
+  background-color: white;
+  border: 1px solid #ff3500;
+  width: 242px;
+  height: 242px;
+  padding: 1.2rem;
+  margin: 0 0 2rem 28px;
+  float: left;
+}
+/* line 140, sass/screen.sass */
+body footer li.karte img {
+  float: left;
+  margin: 0 12px 12px 0;
+  padding: 2px;
+  border: 1px solid #e0e0e0;
+}
+/* line 146, sass/screen.sass */
+body footer li.karte h4 {
+  font-size: 0.9rem;
+  margin-top: 0;
+}
+/* line 150, sass/screen.sass */
+body footer li.karte:first {
+  margin: 0;
+}
+/* line 153, sass/screen.sass */
+body footer ul.kontakte {
+  font-size: 0.8rem;
+  height: 78px;
+}
+/* line 157, sass/screen.sass */
+body footer ul.tags li {
+  font-size: 0.8rem;
+  margin: 0 0.4rem 0 0;
+  padding: 0.2rem 0.4rem;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+  border-radius: 8px;
+}
+/* line 165, sass/screen.sass */
+body ul.kontakte {
+  height: 120px;
+  padding: 0;
+  margin: 0;
+}
+/* line 172, sass/screen.sass */
+body ul.tags {
+  padding: 0;
+  margin: 0;
+  line-height: 2.6rem;
+}
+/* line 177, sass/screen.sass */
+body ul.tags li {
+  background-color: #ff3500;
+  color: white;
+  display: inline;
+  margin: 0 0.4rem 0 0;
+  padding: 0.4rem 0.8rem;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+  border-radius: 12px;
+}
+
+/* line 186, sass/screen.sass */
+.clearfix {
+  overflow: hidden;
+  *zoom: 1;
+}
