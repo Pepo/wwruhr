@@ -2,7 +2,7 @@
 <html lang="de">
 <head>
 
-  <title>Webworker Ruhr <?php echo html($site->title()) ?> - <?php echo html($page->title()) ?></title>
+  <title>Webworker Ruhr <?php echo $page->title() ?></title>
   <meta charset="utf-8" />
   <meta name="description" content="<?php echo html($site->description()) ?>" />
   <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
