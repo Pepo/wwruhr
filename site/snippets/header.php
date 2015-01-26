@@ -19,12 +19,12 @@
             <h1>Webworker Ruhr</h1>
             <aside>
                 <h2>Nächster Termin</h2>
-                <time datetime="2012-24-01T19:00+00:00">27. November 2014 - 19:00 Uhr</time>
+                <time datetime="2012-24-01T19:00+00:00">26. Februar 2015 - 19:00 Uhr</time>
 
                 <h3>Themen</h3>
                 <ul>
                     <li>SOLID (object-oriented design)</li>
-                    <li>Bessere Logingformulare. "Login failed. Retry?"</li>
+                    <li>Ma' kucken. Du vielleicht mit einer tollen Idee?</li>
                 </ul>
             </aside>
         </header>
