@@ -16,7 +16,7 @@ html
     background-color: red
 
 h1,h2
-    font-family: "Donegal One", Helvetica
+    font-family: "Donegal One", Helvetica, Arial, sans-serif
 a
     color: $orange
 body
@@ -132,7 +132,7 @@ body
             border-right: 1px solid $gray
             font-family: Monda
     footer
-        /*height: 10rem
+        //height: 10rem
         background-color: rgba(0,0,0,0.8)
         width: 60rem
         margin: 0 auto
@@ -140,7 +140,7 @@ body
 
         h2, h3
             color: $white
-            margin: 0.78rem 0 0 28px
+            margin: 0.78rem 0 0.5rem 28px
             padding: 0
 
         ul
@@ -213,26 +213,27 @@ footer
         font-size: 0.5em
 .ppl
     a
-        color: $orange
-        width: 146px
-        height: 146px
-        margin: 23px
-        border: 2px solid $orange
-        padding: 5px
+        position: relative
+        background-position: center
+        background-repeat: no-repeat
+        background-size: cover
+
+        width: 80px
+        height: 80px
+
         float: left
-        text-align: center
+        text-indent: -100em
         background-color: #fff
         box-sizing: border-box
-        font-size: 0.75rem
         overflow: hidden
-        transition: all 0.5s
-        &:hover
-            background-color: $orange
-            color: #fff
-            border-color: #fff
-            transition: all 0.5s
-        img
-            margin: 0 auto
-            display: block
-            margin-top: 1em
 
+        &:hover::before,
+        &:focus::before
+            @include opacity(0.5)
+            background-color: $orange
+            position: absolute
+            content: ''
+            width: 100%
+            height: 100%
+            top: 0
+            left: 0

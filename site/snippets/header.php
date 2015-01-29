@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-
-  <title>Webworker Ruhr <?php echo $page->title() ?></title>
-  <meta charset="utf-8" />
-  <meta name="description" content="<?php echo html($site->description()) ?>" />
-  <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
-  <meta name="robots" content="index, follow" />
+    <title>Webworker Ruhr <?php echo $page->title() ?></title>
+    <meta charset="utf-8" />
+    <meta name="description" content="<?php echo html($site->description()) ?>" />
+    <meta name="keywords" content="<?php echo html($site->keywords()) ?>" />
+    <meta name="robots" content="index, follow" />
     <link href='http://fonts.googleapis.com/css?family=PT+Sans:400italic,400,700,700italic' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Donegal+One' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
@@ -34,7 +33,6 @@
                 <?php print $page->title() ?></a>
             <?php endforeach; ?>
         </nav>
-
 
         <section>
         <article>
