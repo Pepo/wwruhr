@@ -19,11 +19,14 @@
 
                         <?php  if($person->sessions()):?>
                             <p class="tags"><strong>Beiträge zum:</strong><br />
-                            <?php $termine = yaml($person->sessions()); ?> 
-                            <?php foreach ($termine['Termine'] as $termin):?>
-                                <?php echo '<a href="'.url($termin).'">'.$termin.'</a>, '; ?>
-                                
-                            <?php endforeach?>
+                                <?php
+                                    $termine = yaml($person->sessions());
+                                    $terminLinks = array();
+                                ?>
+                                <?php foreach ($termine['Termine'] as $termin): ?>
+                                    <?php $terminLinks[] = '<a href="'.url($termin).'">'.$termin.'</a>'; ?>
+                                <?php endforeach ?>
+                                <?php echo implode(', ', $terminLinks); ?>
                             </p>
                         <?php endif;?>
 

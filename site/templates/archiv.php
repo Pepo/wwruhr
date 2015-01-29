@@ -13,10 +13,9 @@
 
 
                         <?php $image =  $a->images()->first() ?>
-                        <?php //echo thumb( $image, array('width' => 95, 'height' => 95, 'upscale' => true, 'crop' => true) ); ?>
-                        <?php echo $image; ?>
+                        <?php echo thumb( $image, array('width' => 95, 'height' => 95, 'upscale' => true, 'crop' => true) ); ?>
                         <p><?= kirbytext($a->shorttext()) ?></p>
-                        <p><a href="<?php echo $a->url() ?>">Details</a></p>
+                        <p><a href="<?php echo $a->url() ?>" class="right">Details</a></p>
 
                     </div>
                 <?php endforeach; ?>

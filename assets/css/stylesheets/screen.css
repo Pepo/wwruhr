@@ -110,6 +110,10 @@ body section article p {
   margin: 0.75em 0;
 }
 /* line 85, ../sass/screen.sass */
+body section article li {
+  font-size: 0.85rem;
+}
+/* line 87, ../sass/screen.sass */
 body section article div.event, body section article div.person, body section article .person-overview {
   margin: 0 auto;
   border: 4px solid #e0e0e0;
@@ -117,20 +121,16 @@ body section article div.event, body section article div.person, body section ar
   margin-bottom: 1rem;
   background-color: #fff;
 }
-/* line 91, ../sass/screen.sass */
+/* line 93, ../sass/screen.sass */
 body section article div.event h4, body section article div.person h4, body section article .person-overview h4 {
   line-height: 1.5em;
   font-size: 1.5rem;
   margin: 0 0 1.2rem;
 }
-/* line 95, ../sass/screen.sass */
+/* line 97, ../sass/screen.sass */
 body section article div.event h4 a, body section article div.person h4 a, body section article .person-overview h4 a {
   float: none;
   color: #000;
-}
-/* line 99, ../sass/screen.sass */
-body section article div.event a, body section article div.person a, body section article .person-overview a {
-  float: right;
 }
 /* line 101, ../sass/screen.sass */
 body section article div.event img, body section article div.person img, body section article .person-overview img {
@@ -259,18 +259,23 @@ body ul.tags li {
   border-radius: 12px;
 }
 
-/* line 208, ../sass/screen.sass */
+/* line 207, ../sass/screen.sass */
+.right {
+  float: right;
+}
+
+/* line 210, ../sass/screen.sass */
 .clearfix {
   overflow: hidden;
   *zoom: 1;
 }
 
-/* line 212, ../sass/screen.sass */
+/* line 214, ../sass/screen.sass */
 footer h2 span {
   font-size: 0.5em;
 }
 
-/* line 215, ../sass/screen.sass */
+/* line 217, ../sass/screen.sass */
 .ppl a {
   position: relative;
   background-position: center;
@@ -284,7 +289,7 @@ footer h2 span {
   box-sizing: border-box;
   overflow: hidden;
 }
-/* line 230, ../sass/screen.sass */
+/* line 232, ../sass/screen.sass */
 .ppl a:hover::before, .ppl a:focus::before {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
   opacity: 0.5;
