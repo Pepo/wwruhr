@@ -10,12 +10,11 @@
                     <li>145, 147, 166 und SB16 (Bus)</li>
                     <li>NE10, NE11, NE12 und NE16 (Nachtexpress)</li>
                 </ul>
-                <?php snippet('menu') ?>
             </aside>
         </section>
     </div>
     <footer class="clearfix">
-        <h2>Willkommen im Ruhrgebiet,wo man Gesichter Fressen nennt! <span>(Frank Goosen)</span></h2>
+        <h2>Willkommen im Ruhrgebiet, wo man Gesichter Fressen nennt! <span>(Frank Goosen)</span></h2>
         <h3>Diese Menschen sind Teil der <a href="www.meetup.com/wwruhr/">Meetup.com-Gruppe Webworker Ruhr</a></h3>
         <div class="ppl">
             <?php $json = json_decode(file_get_contents("https://api.meetup.com/2/members?group_id=17613862&key=484c52501a463038165f2827e1175")) ?>
