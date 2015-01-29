@@ -110,6 +110,10 @@ body section article p {
   margin: 0.75em 0;
 }
 /* line 85, ../sass/screen.sass */
+body section article li {
+  font-size: 0.85rem;
+}
+/* line 87, ../sass/screen.sass */
 body section article div.event, body section article div.person, body section article .person-overview {
   margin: 0 auto;
   border: 4px solid #e0e0e0;
@@ -117,49 +121,49 @@ body section article div.event, body section article div.person, body section ar
   margin-bottom: 1rem;
   background-color: #fff;
 }
-/* line 91, ../sass/screen.sass */
+/* line 93, ../sass/screen.sass */
 body section article div.event h4, body section article div.person h4, body section article .person-overview h4 {
   line-height: 1.5em;
   font-size: 1.5rem;
   margin: 0 0 1.2rem;
 }
-/* line 95, ../sass/screen.sass */
+/* line 97, ../sass/screen.sass */
 body section article div.event h4 a, body section article div.person h4 a, body section article .person-overview h4 a {
   float: none;
   color: #000;
 }
-/* line 99, ../sass/screen.sass */
+/* line 101, ../sass/screen.sass */
 body section article div.event img, body section article div.person img, body section article .person-overview img {
   float: left;
   margin: 0 18px 18px 0;
   padding: 2px;
   border: 1px solid #e0e0e0;
 }
-/* line 105, ../sass/screen.sass */
+/* line 107, ../sass/screen.sass */
 body section article div.event ul.kontakte a, body section article div.person ul.kontakte a, body section article .person-overview ul.kontakte a {
   float: none;
 }
-/* line 109, ../sass/screen.sass */
+/* line 111, ../sass/screen.sass */
 body section article div.person a {
   float: none;
 }
-/* line 112, ../sass/screen.sass */
+/* line 114, ../sass/screen.sass */
 body section article div.person ul.kontakte {
   height: 200px;
 }
-/* line 115, ../sass/screen.sass */
+/* line 117, ../sass/screen.sass */
 body section article div.person ul.tags {
   padding-top: 1.2rem;
   line-height: 3.2rem;
 }
-/* line 118, ../sass/screen.sass */
+/* line 120, ../sass/screen.sass */
 body section article div.person-overview {
   width: 49%;
   float: left;
   box-sizing: border-box;
   margin: 0.5%;
 }
-/* line 124, ../sass/screen.sass */
+/* line 126, ../sass/screen.sass */
 body section aside {
   float: right;
   width: 23rem;
@@ -171,26 +175,26 @@ body section aside {
   border-right: 1px solid #e0e0e0;
   font-family: Monda;
 }
-/* line 132, ../sass/screen.sass */
+/* line 134, ../sass/screen.sass */
 body footer {
   background-color: rgba(0, 0, 0, 0.8);
   width: 60rem;
   margin: 0 auto;
   padding: 0;
 }
-/* line 139, ../sass/screen.sass */
+/* line 141, ../sass/screen.sass */
 body footer h2, body footer h3 {
   color: #FFF;
   margin: 0.78rem 0 0.5rem 28px;
   padding: 0;
 }
-/* line 144, ../sass/screen.sass */
+/* line 146, ../sass/screen.sass */
 body footer ul {
   list-style-type: none;
   margin: 0;
   padding: 28px 0;
 }
-/* line 149, ../sass/screen.sass */
+/* line 151, ../sass/screen.sass */
 body footer li.karte {
   background-color: #FFF;
   border: 1px solid #FF3500;
@@ -200,28 +204,28 @@ body footer li.karte {
   margin: 0 0 2rem 28px;
   float: left;
 }
-/* line 159, ../sass/screen.sass */
+/* line 161, ../sass/screen.sass */
 body footer li.karte img {
   float: left;
   margin: 0 12px 12px 0;
   padding: 2px;
   border: 1px solid #e0e0e0;
 }
-/* line 165, ../sass/screen.sass */
+/* line 167, ../sass/screen.sass */
 body footer li.karte h4 {
   font-size: 0.9rem;
   margin-top: 0;
 }
-/* line 169, ../sass/screen.sass */
+/* line 171, ../sass/screen.sass */
 body footer li.karte:first {
   margin: 0;
 }
-/* line 172, ../sass/screen.sass */
+/* line 174, ../sass/screen.sass */
 body footer ul.kontakte {
   font-size: 0.8rem;
   height: 78px;
 }
-/* line 176, ../sass/screen.sass */
+/* line 178, ../sass/screen.sass */
 body footer ul.tags li {
   font-size: 0.8rem;
   margin: 0 0.4rem 0 0;
@@ -231,19 +235,19 @@ body footer ul.tags li {
   border-radius: 8px;
   white-space: nowrap;
 }
-/* line 185, ../sass/screen.sass */
+/* line 187, ../sass/screen.sass */
 body ul.kontakte {
   height: 120px;
   padding: 0;
   margin: 0;
 }
-/* line 192, ../sass/screen.sass */
+/* line 194, ../sass/screen.sass */
 body ul.tags {
   padding: 0;
   margin: 0;
   line-height: 2.6rem;
 }
-/* line 197, ../sass/screen.sass */
+/* line 199, ../sass/screen.sass */
 body ul.tags li {
   background-color: #FF3500;
   color: #FFF;
@@ -255,23 +259,23 @@ body ul.tags li {
   border-radius: 12px;
 }
 
-/* line 205, ../sass/screen.sass */
+/* line 207, ../sass/screen.sass */
 .right {
   float: right;
 }
 
-/* line 208, ../sass/screen.sass */
+/* line 210, ../sass/screen.sass */
 .clearfix {
   overflow: hidden;
   *zoom: 1;
 }
 
-/* line 212, ../sass/screen.sass */
+/* line 214, ../sass/screen.sass */
 footer h2 span {
   font-size: 0.5em;
 }
 
-/* line 215, ../sass/screen.sass */
+/* line 217, ../sass/screen.sass */
 .ppl a {
   position: relative;
   background-position: center;
@@ -285,7 +289,7 @@ footer h2 span {
   box-sizing: border-box;
   overflow: hidden;
 }
-/* line 230, ../sass/screen.sass */
+/* line 232, ../sass/screen.sass */
 .ppl a:hover::before, .ppl a:focus::before {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
   opacity: 0.5;
