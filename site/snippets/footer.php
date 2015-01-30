@@ -10,13 +10,21 @@
                     <li>145, 147, 166 und SB16 (Bus)</li>
                     <li>NE10, NE11, NE12 und NE16 (Nachtexpress)</li>
                 </ul>
+                <h2>Kollegen und Kumpels</h2>
+
+                <p><a href="http://www.webworker-nrw.de"><img src="/assets/images/wwnrw.jpg"></a></p>
+                <p><a href="http://www.pottjs.de"><img src="/assets/images/pott_js.jpg"></a></p>
+                <p><a href="http://www.beyondtellerrand.de"><img src="/assets/images/beyondtellerrand.jpg"></a></p>
+                <p><a href="http://www.getkirby.com"><img src="/assets/images/kirby.jpg"></a></p>
+
+
             </aside>
         </div>
     </section>
     <footer class="clearfix">
         <div class="container">
             <h2>Willkommen im Ruhrgebiet, wo man Gesichter &bdquo;Fressen&ldquo; nennt! <span>(Frank Goosen)</span></h2>
-            <h3>Diese Menschen sind Teil der <a href="www.meetup.com/wwruhr/">Meetup.com-Gruppe Webworker Ruhr</a></h3>
+            <h3>Diese Menschen sind Teil der <a href="http://www.meetup.com/wwruhr/">Meetup.com-Gruppe Webworker Ruhr</a></h3>
 
             <div class="ppl">
                 <?php $json = json_decode( file_get_contents("https://api.meetup.com/2/members?group_id=17613862&key=484c52501a463038165f2827e1175") ) ?>
