@@ -6,19 +6,19 @@
 
                 ?>
                 <?php foreach($personen as $person): ?>
-                    <div class="person-overview clearfix">
+                    <div class="person-overview">
                         <h4><?php print $person->name() ?></h4>
 
 
                         <?php $image =  $person->images()->first() ?>
                         <?php echo thumb( $image, array('width' => 95, 'height' => 95, 'upscale' => true, 'crop' => true) ); ?>
-                        <ul class="kontakte clearfix">
+                        <ul class="kontakte">
                             <li><a href="http://www.twitter.com/<?php echo $person->twitter()?>">Twitter</a></li>
                             <li><a href="<?php echo $person->homepage()?>">Web</a></li>
                         </ul>
 
                         <?php  if($person->sessions()):?>
-                            <p class="tags"><strong>Beiträge zum:</strong><br />
+                            <p class="tags clearfix"><strong>Beiträge zum:</strong><br />
                                 <?php
                                     $termine = yaml($person->sessions());
                                     $terminLinks = array();
