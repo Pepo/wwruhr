@@ -37,8 +37,8 @@
 
                 <h3>Themen</h3>
                 <ul>
-                    <li>SOLID (object-oriented design)</li>
-                    <li>Ma' kucken. Du vielleicht mit einer tollen Idee?</li>
+                    <li>SOLID (object-oriented design) mit Christian Schorn</li>
+                    <li>Christian Schaefer mit HTTP/2 the Future is now.</li>
                 </ul>
             </aside>
         </div>
