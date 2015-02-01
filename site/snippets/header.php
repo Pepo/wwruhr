@@ -40,6 +40,7 @@
                     <li>SOLID (object-oriented design) mit Christian Schorn</li>
                     <li>Christian Schaefer mit HTTP/2 the Future is now.</li>
                 </ul>
+                <p><a href="http://www.meetup.com/wwruhr/events/220209902/">Anmelden auf meetup.com/wwruhr</a></p>
             </aside>
         </div>
     </header>
