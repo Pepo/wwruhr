@@ -33,14 +33,16 @@
 
             <aside>
                 <h2>Nächster Termin</h2>
-                <time datetime="2012-24-01T19:00+00:00">26. Februar 2015 - 19:00 Uhr</time>
-
+                <time datetime="2015-03-26T19:00+00:00">26. März 2015 - 19:00 Uhr</time>
+<!--
                 <h3>Themen</h3>
+                
                 <ul>
                     <li>SOLID (object-oriented design) mit Christian Schorn</li>
                     <li>Christian Schaefer mit HTTP/2 the Future is now.</li>
                 </ul>
                 <p><a href="http://www.meetup.com/wwruhr/events/220209902/">Anmelden auf meetup.com/wwruhr</a></p>
+-->
             </aside>
         </div>
     </header>
