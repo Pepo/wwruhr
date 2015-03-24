@@ -38,7 +38,7 @@
                 <h3>Themen</h3>
                 
                 <ul>
-                    <li>IndieWeb Movement mit Nicolau Schwarz</li>
+                    <li>IndieWeb Movement mit Nicolai Schwarz</li>
 
                     <li>Noch ein weiteres Thema. Hast du vielleicht eine Idee? Einfach melden!</li>
                 </ul>
