@@ -42,7 +42,7 @@
 
                     <li>Noch ein weiteres Thema. Hast du vielleicht eine Idee? Einfach melden!</li>
                 </ul>
-                <p><a href="http://www.meetup.com/wwruhr/events/220209902/">Anmelden auf meetup.com/wwruhr</a></p>
+                <p><a href="http://www.meetup.com/wwruhr/events/221363578/">Anmelden auf meetup.com/wwruhr</a></p>
 
             </aside>
         </div>
